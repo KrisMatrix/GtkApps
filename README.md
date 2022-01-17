@@ -15,4 +15,6 @@ made several small projects.
 
 ![Ball Bouncing animation with Gtk](https://github.com/KrisMatrix/GtkApps/blob/main/readmeFiles/animation.gif)
 
-#EOF
+This effort is complete.
+
+# EOF
